@@ -11,3 +11,5 @@ Langkah - langkah pembuatan program :
 
 4. Membuat Rest Controller
 - Membuat Rest controller untuk model product dan cart dimana terdapat fungsi - fungsi utama yang digunakan Restful API untuk memanipulasi data
+
+Catatan : Controller untuk Cart belum sempurna
